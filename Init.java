@@ -10,7 +10,7 @@ public class Init {
             System.out.println(nodes[i].ShowPerson() + " |" + nodes[i].Children.size());
         }
 
-        
+        //Test
     }
 
     static String GetRelation(Node[] dataSet, Person base, Person point)
