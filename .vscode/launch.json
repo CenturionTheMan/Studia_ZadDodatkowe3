@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UnitTest",
+            "request": "launch",
+            "mainClass": "UnitTest",
+            "projectName": "Zad_dodatkowe_3_c732ca3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog",
+            "request": "launch",
+            "mainClass": "Prog",
+            "projectName": "Zad_dodatkowe_3_c732ca3"
+        },
+        {
+            "type": "java",
             "name": "Launch Init",
             "request": "launch",
             "mainClass": "Init",
